@@ -155,7 +155,7 @@ external_address = ""
 seeds = "de529986915b637972f6f876e22b3fa732ae5ec5@seed.ouroboros-crypto.com:26656"
 
 # Comma separated list of nodes to keep persistent connections to
-persistent_peers = "5237ce09b02c547b80b7978d673023286dbb9eb0@node2.ouroboros-crypto.com:26656,4268387b72970c3bd4f7aac1eb40bee3d0654a32@node.ouroboros-crypto.com:26656"
+persistent_peers = "5237ce09b02c547b80b7978d673023286dbb9eb0@node2.ouroboros-crypto.com:26656,4268387b72970c3bd4f7aac1eb40bee3d0654a32@node.ouroboros-crypto.com:26656,8a97bd9d049ccdf750ea6a7ac2bd7e2c60737e51@78.47.197.43:26656"
 
 # UPNP port forwarding
 upnp = false
